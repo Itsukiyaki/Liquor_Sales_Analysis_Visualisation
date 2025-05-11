@@ -37,9 +37,9 @@ This project analyzes liquor sales data in Iowa for January 2022. The analysis i
 3. Run the cells sequentially to reproduce the analysis.
 
 ## Data Cleaning Steps
-- Dropped unnecessary columns such as **invoice_and_item_number**, store_number, etc.
+- Dropped unnecessary columns such as **`invoice_and_item_number`**, **`store_number`**, etc.
 - Replaced missing values with 0.
-- Saved the cleaned dataset as iowa_sales_jan_2022_cleaned.csv.
+- Saved the cleaned dataset as **`iowa_sales_jan_2022_cleaned.csv`**.
 
 ## Visualizations
 - Daily sales trends plotted using seaborn.
