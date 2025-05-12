@@ -26,3 +26,7 @@ Retailer di Iowa berupaya meningkatkan kinerja penjualan mereka. Namun, keterbat
 - Di mana lokasi penjualan tertinggi dan terendah?
 - Mengapa kategori minuman tertentu lebih laku daripada yang lain?
 - Bagaimana retailer dapat menggunakan data penjualan untuk mengoptimalkan strategi penetapan harga dan memaksimalkan pendapatan?
+
+## Reference
+Dataset: https://www.kaggle.com/datasets/gabrielramos87/iowa-sales-liquor-jan-2021jan-2022/data
+Tableau: https://public.tableau.com/views/h8dsft_Milestone1_eldi/Visualisasi?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
