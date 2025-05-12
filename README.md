@@ -1,11 +1,12 @@
 # Iowa Liquor Sales Analysis
 
-This project analyzes liquor sales data in Iowa for January 2022. The analysis includes data cleaning, visualization, and statistical testing to derive insights for retailers.
+Proyek ini menganalisis data penjualan minuman keras di Iowa pada bulan Januari 2022. Analisis ini meliputi data cleaning, visualization, dan pengujian statistik untuk memperoleh insight.
 
-## Project Structure
+## Repository Outline
 
-- **`notebook.ipynb`**: Contains the data analysis and visualization code.
-- **`iowa_sales_jan_2022_cleaned.csv`**: Cleaned dataset with missing values handled.
+- **`README.md`** - Penjelasan gambaran umum project
+- **`notebook.ipynb`**: Notebook untuk pengolahan data.
+- **`iowa_sales_jan_2022_cleaned.csv`**: Cleaned dataset.
 
 ## Latar Belakang
 Retailer di Iowa berupaya meningkatkan kinerja penjualan mereka. Namun, keterbatasan data yang tersedia khususnya, catatan penjualan dari Januari 2022 menimbulkan tantangan dalam memahami perilaku konsumen dan tren secara menyeluruh. Kendala ini menghambat pengembangan manajemen inventaris, strategi pemasaran, dan prediksi penjualan yang efektif. Untuk mengatasi masalah ini, analisis terperinci terhadap data penjualan Januari 2022 diperlukan untuk mendapatkan wawasan yang dapat ditindaklanjuti yang dapat menginformasikan keputusan strategis yang bertujuan untuk meningkatkan penjualan dan profitabilitas.
@@ -25,23 +26,3 @@ Retailer di Iowa berupaya meningkatkan kinerja penjualan mereka. Namun, keterbat
 - Di mana lokasi penjualan tertinggi dan terendah?
 - Mengapa kategori minuman tertentu lebih laku daripada yang lain?
 - Bagaimana retailer dapat menggunakan data penjualan untuk mengoptimalkan strategi penetapan harga dan memaksimalkan pendapatan?
-
-## How to Run
-
-1. Install dependencies:
-   ```bash
-   pip install pandas matplotlib seaborn scipy
-2. Open notebook.ipynb in Jupyter Notebook or JupyterLab.
-
-3. Run the cells sequentially to reproduce the analysis.
-
-## Data Cleaning Steps
-- Dropped unnecessary columns such as **`invoice_and_item_number`**, **`store_number`**, etc.
-- Replaced missing values with 0.
-- Saved the cleaned dataset as **`iowa_sales_jan_2022_cleaned.csv`**.
-
-## Visualizations
-- Daily sales trends plotted using seaborn.
-
-## Statistical Tests
-- Kruskal-Wallis H-test to evaluate the impact of beverage categories on sales.
