@@ -1,6 +1,6 @@
 # Iowa Liquor Sales Analysis
 
-Proyek ini menganalisis data penjualan minuman keras di Iowa pada bulan Januari 2022. Analisis ini meliputi data cleaning, visualization, dan pengujian statistik untuk memperoleh insight.
+Project ini menganalisis data penjualan minuman keras di Iowa pada bulan Januari 2022. Analisis ini meliputi data cleaning, visualization, dan pengujian statistik untuk memperoleh insight.
 
 ## Repository Outline
 
